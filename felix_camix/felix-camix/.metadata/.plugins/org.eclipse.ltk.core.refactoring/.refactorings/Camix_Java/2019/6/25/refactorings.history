@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CanalChatTestEx1EasyMock.java&apos; to &apos;Camix_Java/test/camix.service&apos;&#x0D;&#x0A;- Original project: &apos;Camix_Java&apos;&#x0D;&#x0A;- Destination element: &apos;Camix_Java/test/camix.service&apos;&#x0D;&#x0A;- Original element: &apos;camix.service.CanalChatTestEx1EasyMock.java&apos;" description="Copy compilation unit" destination="/test&lt;camix.service" element1="/test&lt;camix.service{CanalChatTestEx1EasyMock.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1560773691648" units="1" version="1.0"/>
+</session>

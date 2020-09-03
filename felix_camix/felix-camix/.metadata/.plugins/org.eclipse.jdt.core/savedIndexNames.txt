@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\SESA475128\Documents\ESEO\validation\felix-camix\.metadata\.plugins\org.eclipse.jdt.core

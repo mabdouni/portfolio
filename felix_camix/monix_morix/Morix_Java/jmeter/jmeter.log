@@ -1,0 +1,244 @@
+2019-01-07 15:17:10,746 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-01-07 15:17:10,761 INFO o.a.j.JMeter: Loading user properties from: /home/matth/Logiciels/JMeter/apache-jmeter-5.0/bin/user.properties
+2019-01-07 15:17:10,761 INFO o.a.j.JMeter: Loading system properties from: /home/matth/Logiciels/JMeter/apache-jmeter-5.0/bin/system.properties
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: java.version=1.8.0_162
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: os.name=Linux
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: os.arch=amd64
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: os.version=4.19.0-1-amd64
+2019-01-07 15:17:10,767 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-01-07 15:17:10,768 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-01-07 15:17:10,768 INFO o.a.j.JMeter: Available Processors =4
+2019-01-07 15:17:10,772 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-01-07 15:17:10,773 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-01-07 15:17:10,773 INFO o.a.j.JMeter: JMeterHome=/home/matth/Logiciels/JMeter/apache-jmeter-5.0
+2019-01-07 15:17:10,773 INFO o.a.j.JMeter: user.dir  =/home/matth/Developpement/Monix/workspace_monix_eclipse-java-oxygen/Morix_Java/jmeter
+2019-01-07 15:17:10,773 INFO o.a.j.JMeter: PWD       =/home/matth/Developpement/Monix/workspace_monix_eclipse-java-oxygen/Morix_Java/jmeter
+2019-01-07 15:17:10,774 INFO o.a.j.JMeter: IP: 192.168.1.81 Name: araxia FullName: araxia
+2019-01-07 15:17:10,949 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-01-07 15:17:11,004 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Darcula]
+2019-01-07 15:17:11,004 INFO o.a.j.JMeter: Setting LAF to: javax.swing.plaf.metal.MetalLookAndFeel
+2019-01-07 15:17:11,009 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-01-07 15:17:11,485 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-01-07 15:17:11,485 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-01-07 15:17:12,412 INFO o.a.j.JMeter: Loading file: plan_travail_explo.jmx
+2019-01-07 15:17:12,413 INFO o.a.j.s.FileServer: Default base='/home/matth/Developpement/Monix/workspace_monix_eclipse-java-oxygen/Morix_Java/jmeter'
+2019-01-07 15:17:12,415 INFO o.a.j.s.FileServer: Set new base='/home/matth/Developpement/Monix/workspace_monix_eclipse-java-oxygen/Morix_Java/jmeter'
+2019-01-07 15:17:12,788 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-01-07 15:17:12,802 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-01-07 15:17:12,804 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-01-07 15:17:12,809 INFO o.a.j.s.SaveService: Loading file: plan_travail_explo.jmx
+2019-01-07 15:17:12,932 INFO o.a.j.s.FileServer: Set new base='/home/matth/Developpement/Monix/workspace_monix_eclipse-java-oxygen/Morix_Java/jmeter'
+2019-01-07 15:17:12,970 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-01-07 15:17:12,970 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-01-07 15:17:12,970 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-01-07 15:17:12,970 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-01-07 15:17:13,975 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-07 15:17:13,976 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-07 15:17:13,976 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-07 15:17:13,976 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-07 15:17:13,976 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-01-07 15:17:13,977 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-01-07 15:17:14,280 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-01-07 15:17:14,281 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /home/matth/Logiciels/JMeter/apache-jmeter-5.0/bin/proxyserver.jks
+2019-01-07 15:21:40,396 INFO o.a.j.s.FileServer: Set new base='/home/matth/Developpement/Monix/workspace_monix_eclipse-java-oxygen/Morix_Java/jmeter'
+2019-01-07 15:23:34,208 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2019-01-07 15:23:34,209 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-01-07 15:23:34,209 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-01-07 15:23:34,277 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2019-01-07 15:23:34,423 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Groupe d'unités de tests : ex. multi unités (1/2) (explo)
+2019-01-07 15:23:34,423 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Groupe d'unités de tests : ex. multi unités (1/2) (explo).
+2019-01-07 15:23:34,424 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-01-07 15:23:34,424 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2019-01-07 15:23:34,427 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2019-01-07 15:23:34,428 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Groupe d'unités de tests : ex. multi unités (2/2) (explo)
+2019-01-07 15:23:34,428 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Groupe d'unités de tests : ex. multi unités (2/2) (explo).
+2019-01-07 15:23:34,428 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-01-07 15:23:34,428 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2019-01-07 15:23:34,430 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2019-01-07 15:23:34,430 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2019-01-07 15:23:34,437 INFO o.a.j.t.JMeterThread: Thread started: Groupe d'unités de tests : ex. multi unités (2/2) (explo) 2-1
+2019-01-07 15:23:34,437 INFO o.a.j.t.JMeterThread: Thread started: Groupe d'unités de tests : ex. multi unités (1/2) (explo) 1-1
+2019-01-07 15:23:34,440 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:34,440 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:34,455 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:34,455 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:34,466 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:34,467 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:35,464 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:35,466 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:35,469 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:35,471 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:36,469 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:36,471 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:37,474 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:37,477 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:37,479 INFO o.a.j.t.JMeterThread: Thread is done: Groupe d'unités de tests : ex. multi unités (1/2) (explo) 1-1
+2019-01-07 15:23:37,479 INFO o.a.j.t.JMeterThread: Thread finished: Groupe d'unités de tests : ex. multi unités (1/2) (explo) 1-1
+2019-01-07 15:23:38,474 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:38,477 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:38,479 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:23:38,480 WARN o.a.j.p.t.s.TCPSampler: Could not create socket for tcp://127.0.0.1:13579
+java.net.ConnectException: Connexion refusée (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_162]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.getSocket(TCPSampler.java:168) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.tcp.sampler.TCPSampler.sample(TCPSampler.java:384) [ApacheJMeter_tcp.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:622) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:546) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:486) [ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:253) [ApacheJMeter_core.jar:5.0 r1840935]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_162]
+2019-01-07 15:23:38,480 INFO o.a.j.t.JMeterThread: Thread is done: Groupe d'unités de tests : ex. multi unités (2/2) (explo) 2-1
+2019-01-07 15:23:38,480 INFO o.a.j.t.JMeterThread: Thread finished: Groupe d'unités de tests : ex. multi unités (2/2) (explo) 2-1
+2019-01-07 15:23:38,480 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2019-01-07 15:23:38,481 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2019-01-07 15:27:03,662 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2019-01-07 15:27:03,663 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-01-07 15:27:03,698 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2019-01-07 15:27:03,854 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Groupe d'unités de tests : ex. multi unités (1/2) (explo)
+2019-01-07 15:27:03,854 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Groupe d'unités de tests : ex. multi unités (1/2) (explo).
+2019-01-07 15:27:03,854 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-01-07 15:27:03,855 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2019-01-07 15:27:03,856 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2019-01-07 15:27:03,856 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Groupe d'unités de tests : ex. multi unités (2/2) (explo)
+2019-01-07 15:27:03,856 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Groupe d'unités de tests : ex. multi unités (2/2) (explo).
+2019-01-07 15:27:03,856 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-01-07 15:27:03,856 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2019-01-07 15:27:03,856 INFO o.a.j.t.JMeterThread: Thread started: Groupe d'unités de tests : ex. multi unités (1/2) (explo) 1-1
+2019-01-07 15:27:03,858 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:03,858 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2019-01-07 15:27:03,858 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2019-01-07 15:27:03,862 INFO o.a.j.t.JMeterThread: Thread started: Groupe d'unités de tests : ex. multi unités (2/2) (explo) 2-1
+2019-01-07 15:27:03,862 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:04,860 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:05,865 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:05,867 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:06,865 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:06,868 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:06,872 INFO o.a.j.t.JMeterThread: Thread is done: Groupe d'unités de tests : ex. multi unités (1/2) (explo) 1-1
+2019-01-07 15:27:06,872 INFO o.a.j.t.JMeterThread: Thread finished: Groupe d'unités de tests : ex. multi unités (1/2) (explo) 1-1
+2019-01-07 15:27:07,871 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:07,875 ERROR o.a.j.p.t.s.TCPSampler: Could not find protocol class 'morix.TCPClientMorixImpl'
+2019-01-07 15:27:07,876 INFO o.a.j.t.JMeterThread: Thread is done: Groupe d'unités de tests : ex. multi unités (2/2) (explo) 2-1
+2019-01-07 15:27:07,876 INFO o.a.j.t.JMeterThread: Thread finished: Groupe d'unités de tests : ex. multi unités (2/2) (explo) 2-1
+2019-01-07 15:27:07,876 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2019-01-07 15:27:07,877 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
